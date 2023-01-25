@@ -1,4 +1,3 @@
-import { PropTypes } from "react";
 function Header({ text, bgColor, textColor }) {
   const headerStyles = {
     backgroundColor: bgColor,
